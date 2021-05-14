@@ -1,0 +1,195 @@
+body {
+  font-family: "Montserrat"
+}
+
+#title {
+  background-color: #224b66;
+  color: #fff;
+}
+
+h1 {
+  font-family: "Montserrat";
+  font-size: 3.5rem;
+  line-height: 1.5;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+h3 {
+  font-family: "Montserrat";
+  font-weight: bold;
+}
+
+h4 {
+  font-family: "Montserrat";
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+p {
+  color: #8f8f8f;
+}
+
+/* Navigation Bar */
+.navbar {
+  background-color: #224b66;
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+}
+
+/* Download Buttons */
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+/* Title Image */
+.title-image {
+  width: 60%;
+}
+
+/* Features Section */
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #2c698f;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #224b66;
+}
+
+/* About Us */
+#about-us {
+  background-color: #2c698f;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+.joy {
+  margin: 100px auto 100px auto;
+  width: 55%;
+  text-align: left;
+  padding-bottom: 1%;
+  padding-top: 1%;
+}
+.connection {
+  margin: 100px auto 100px auto;
+  width: 55%;
+  text-align: left;
+  padding-bottom: 1%;
+  padding-top: 1%;
+}
+.joy-comment {
+  color: #fff;
+}
+.connection-comment {
+  color: #fff;
+}
+.cactus-heart {
+  float: left;
+  margin-right: 30px;
+  width: 20%;
+}
+
+.scissors {
+  float: right;
+  margin-left: 30px;
+  width: 20%;
+}
+
+/* Testimonial Section */
+#testimonials {
+  text-align: center;
+  background-color: #fff;
+  color: #000;
+}
+
+.testimonial-image {
+  width: 20%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.carousel-control-next-icon:after
+{
+  content: '>';
+  font-size: 55px;
+  color: #000;
+}
+
+.carousel-control-prev-icon:after {
+  content: '<';
+  font-size: 55px;
+  color: #000;
+}
+
+/* Pricing Section */
+#pricing {
+  background-color: #2c698f;
+  text-align: center;
+  padding: 100px;
+}
+
+.pricing-column {
+  padding: 3% 2%;
+}
+
+.pricing-header {
+  color: #fff;
+}
+
+.pricing-text {
+  color: #fff;
+}
+
+.cta-button {
+  margin: 2% 2% 2% 0;
+}
+
+#cta {
+  text-align: center;
+  color: #fff;
+  padding: 10px;
+  background-color: #224b66;
+}
+
+#footer {
+  background-color: #224b66;
+  text-align: center;
+}
+
+.copyright {
+  color: #fff;
+}
